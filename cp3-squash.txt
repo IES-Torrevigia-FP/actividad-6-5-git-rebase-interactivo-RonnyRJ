@@ -1,0 +1,6 @@
+9d65b17 Agrupa cambios de líneas extra en app
+8e28963 Commit 1: versión inicial
+68fb96e add deadline
+bb807e3 Initial commit
+
+Agrupar commits por ejemplo con squash o fixup en un rebase interactivo, antes de abrir un pull request es útil principalmente para mejorar la claridad y calidad del historial.

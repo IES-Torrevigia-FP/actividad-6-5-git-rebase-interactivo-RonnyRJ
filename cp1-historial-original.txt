@@ -1,0 +1,7 @@
+ronny@Ubu:~/Documents/dev/actividad-6-5-git-rebase-interactivo-RonnyRJ$ git log --oneline
+3da3ed6 (HEAD -> main) otro commit
+b98bcfb arreglo
+f7f7d41 wip 1
+9302b2d Commit 1: versión inicial
+68fb96e (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit

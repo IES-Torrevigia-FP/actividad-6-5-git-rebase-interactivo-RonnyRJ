@@ -1,0 +1,8 @@
+0f280f3 otro commit
+92a7aee Añade línea extra 2 en app
+708789e Añade línea extra 1 en app
+8e28963 Commit 1: versión inicial
+68fb96e add deadline
+bb807e3 Initial commit
+
+reword sirve para modificar solo el mensaje de un commit, sin cambiar su contenido ni su historial.
